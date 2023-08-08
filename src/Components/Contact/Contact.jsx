@@ -37,9 +37,9 @@ const Contact = () => {
 
                     <article className="contact_option">
                         <AiFillLinkedin className='contact_option-icon' />
-                        <h4>Messanger</h4>
+                        <h4>LinkedIn</h4>
                         <h5>Rohit Patil</h5>
-                        <a href='#' target='_blank'>Send a Message</a>
+                        <a href='https://www.linkedin.com/in/prohit23/' target='_blank'>Send a Message</a>
                     </article>
 
                     <article className="contact_option">

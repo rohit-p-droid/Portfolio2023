@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
-import img1 from '../../Assets/portfolio1.jpg'
+import img1 from '../../Assets/portfolio.png'
 import img2 from '../../Assets/portfolio2.jpg'
-import img3 from '../../Assets/portfolio3.jpg'
-import img4 from '../../Assets/portfolio4.jpg'
+import img3 from '../../Assets/constructionERP.jpeg'
+import img4 from '../../Assets/EmployeeManagement.png'
 import img5 from '../../Assets/portfolio5.png'
 import img6 from '../../Assets/portfolio6.jpg'
 
@@ -15,31 +15,31 @@ const Portfolio = () => {
             image: img1,
             title: "Portfolio using React",
             desc: "This is the dynamic portfolio website created using React-js hosted on vercel",
-            github: "#",
-            demo: "#"
+            github: "https://github.com/rohit-p-droid/MERN-LaptopShopping-website.git",
+            demo: "https://portfolio2023-gamma.vercel.app/"
         },
         {
             id: 2,
             image: img2,
-            title: "project2",
-            desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
-            github: "#",
+            title: "Laptop Shopping Website",
+            desc: "It is the online laptop shopping website build using React as a frontend and NodeJS, ExpressJS for backend and MongoDB for database",
+            github: "https://github.com/rohit-p-droid/MERN-LaptopShopping-website.git",
             demo: "#"
         },
         {
             id: 3,
             image: img3,
-            title: "project3",
-            desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
-            github: "#",
+            title: "Construction ERP",
+            desc: "This is a dynamic web application made using using JDBC, Servlet for backend and JSP, HTML, CSS for frontend and Mysql for database.",
+            github: "https://github.com/rohit-p-droid/Constrution-ERP.git",
             demo: "#"
         },
         {
             id: 4,
             image: img4,
-            title: "project4",
-            desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
-            github: "#",
+            title: "Employee Management System",
+            desc: "This is a project build using JDBC and servelet for backend and Mysql for database and frontend using scene builder in Netbeans IDE.",
+            github: "https://github.com/rohit-p-droid/Emplloyee-Management-System.git",
             demo: "#"
         },
         {
@@ -53,7 +53,7 @@ const Portfolio = () => {
         {
             id: 6,
             image: img6,
-            title: "project6",
+            title: "project5",
             desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
             github: "#",
             demo: "#"

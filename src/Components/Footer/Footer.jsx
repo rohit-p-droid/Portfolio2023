@@ -23,12 +23,12 @@ const Footer = () => {
         </ul>
 
         <div className="footer_socials">
-            <a href='#' target='_blank'><AiFillLinkedin/></a>
-            <a href='#' target='_blank'><BsGithub/></a>
-            <a href='#' target='_blank'><SiLeetcode/></a>
-            <a href='#' target='_blank'><SiGeeksforgeeks/></a>
-            <a href='#' target='_blank'><FaHackerrank/></a>
-            <a href='#' target='_blank'><SiCodechef/></a>
+            <a href='https://www.linkedin.com/in/prohit23/' target='_blank'><AiFillLinkedin/></a>
+            <a href='https://github.com/rohit-p-droid' target='_blank'><BsGithub/></a>
+            <a href='https://leetcode.com/RohitPatil23/' target='_blank'><SiLeetcode/></a>
+            <a href='https://auth.geeksforgeeks.org/user/prohit9k4s' target='_blank'><SiGeeksforgeeks/></a>
+            <a href='https://www.hackerrank.com/p_rohit_2310' target='_blank'><FaHackerrank/></a>
+            <a href='https://www.codechef.com/users/sesrc2_419' target='_blank'><SiCodechef/></a>
         </div>
     </footer>
   )
