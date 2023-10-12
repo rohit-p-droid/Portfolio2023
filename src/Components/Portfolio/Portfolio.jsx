@@ -41,22 +41,6 @@ const Portfolio = () => {
             desc: "This is a project build using JDBC and servelet for backend and Mysql for database and frontend using scene builder in Netbeans IDE.",
             github: "https://github.com/rohit-p-droid/Emplloyee-Management-System.git",
             demo: "#"
-        },
-        {
-            id: 5,
-            image: img5,
-            title: "project5",
-            desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
-            github: "#",
-            demo: "#"
-        },
-        {
-            id: 6,
-            image: img6,
-            title: "project5",
-            desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi vitae praesentium libero saepe nemo laboriosam quae, debitis facilis repudiandae atque.",
-            github: "#",
-            demo: "#"
         }
     ]
 
