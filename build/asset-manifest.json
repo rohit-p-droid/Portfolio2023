@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.23112f02.css",
-    "main.js": "/static/js/main.33cf5ba7.js",
+    "main.css": "/static/css/main.44b3cd82.css",
+    "main.js": "/static/js/main.e6ce1fc9.js",
     "static/media/me-about2.jpg": "/static/media/me-about2.a251d03cd12b9c0b6e41.jpg",
+    "static/media/digital-wallet.png": "/static/media/digital-wallet.12698711a3a7bebe3cfc.png",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio.png": "/static/media/portfolio.519068dd20b91649233b.png",
     "static/media/me2.png": "/static/media/me2.ec646bc5229beb72d04a.png",
-    "static/media/Rohit_Vasant_Patil_Resume.pdf": "/static/media/Rohit_Vasant_Patil_Resume.f0797e8f40ab1c7d3ee2.pdf",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/EmployeeManagement.png": "/static/media/EmployeeManagement.3215c2b2948a98857932.png",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Rohit_2025.pdf": "/static/media/Rohit_2025.e4717df88f2f585caa24.pdf",
     "static/media/constructionERP.jpeg": "/static/media/constructionERP.efd823d8fae66b7c53b5.jpeg",
     "index.html": "/index.html",
-    "main.23112f02.css.map": "/static/css/main.23112f02.css.map",
-    "main.33cf5ba7.js.map": "/static/js/main.33cf5ba7.js.map"
+    "main.44b3cd82.css.map": "/static/css/main.44b3cd82.css.map",
+    "main.e6ce1fc9.js.map": "/static/js/main.e6ce1fc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.23112f02.css",
-    "static/js/main.33cf5ba7.js"
+    "static/css/main.44b3cd82.css",
+    "static/js/main.e6ce1fc9.js"
   ]
 }
