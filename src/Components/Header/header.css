@@ -42,9 +42,14 @@ header {
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 75%;
+    border-radius: 50% / 30%; /* Creates an elliptical shape */
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+}
+
+.me:hover {
+    transform: scale(1.05);
+    box-shadow: 0 25px 40px rgba(0, 0, 0, 0.3);
 }
 
 .scroll_down {

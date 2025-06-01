@@ -3,8 +3,8 @@ import './experience.css'
 // import { BsFillPatchCheckFill } from 'react-icons/bs'
 import { PiFileHtmlBold } from 'react-icons/pi'
 import { PiFileCssDuotone } from 'react-icons/pi'
-import { SiJavascript } from 'react-icons/si'
-import { BiLogoBootstrap } from 'react-icons/bi'
+import { SiJavascript, SiNextdotjs } from 'react-icons/si'
+import { BiLogoBootstrap, BiLogoTailwindCss } from 'react-icons/bi'
 import { BiLogoReact } from 'react-icons/bi'
 import { BiLogoNodejs } from 'react-icons/bi'
 import { SiExpress } from 'react-icons/si'
@@ -58,6 +58,13 @@ const Experience = () => {
                             <small className='text-light'>Intermediate</small>
                            </div>
                         </article>
+                        <article className="exeprience_details">
+                            <BiLogoTailwindCss className='exeperinece_details-icon'/>
+                           <div>
+                           <h4>Tailwind CSS</h4>
+                            <small className='text-light'>Intermediate</small>
+                           </div>
+                        </article>
                     </div>
                 </div>
 
@@ -96,14 +103,14 @@ const Experience = () => {
                         <article className="exeprience_details">
                             <BiLogoDjango className='exeperinece_details-icon'/>
                             <div>
-                            <h4>Python Django</h4>
+                            <h4>Django</h4>
                             <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className="exeprience_details">
-                            <BiLogoJava className='exeperinece_details-icon'/>
+                            <SiNextdotjs className='exeperinece_details-icon'/>
                             <div>
-                            <h4>Java</h4>
+                            <h4>Next.js</h4>
                             <small className='text-light'>Intermediate</small>
                             </div>
                         </article>

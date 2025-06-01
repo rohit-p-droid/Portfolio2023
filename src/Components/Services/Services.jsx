@@ -67,22 +67,6 @@ const Services = () => {
             <div>
               <li>
                 <BsPatchCheckFill className='service_list-icon' />
-                <h3>Internship in Java</h3>
-              </li>
-              <li>
-                <h4>R3 Systems India Pvt. Ltd.</h4>
-              </li>
-              <li>
-                <h5>One Month training and internship in Core Java, Advanced Java & Spring Framework
-                  with grade A+ (August 2022)
-                </h5>
-              </li>
-              <br />
-            </div>
-
-            <div>
-              <li>
-                <BsPatchCheckFill className='service_list-icon' />
                 <h3>Internship in MERN Stack</h3>
               </li>
               <li>
@@ -109,7 +93,21 @@ const Services = () => {
               </li>
               <br />
             </div>
-
+      
+            <div>
+              <li>
+                <BsPatchCheckFill className='service_list-icon' />
+                <h3>Google Cybersecurity Professional Certificate</h3>
+              </li>
+              <li>
+                <h4>Coursera (<a href="https://coursera.org/share/d1fdafead46420e93bf668497c9c62a6">View Credential</a>)</h4>
+              </li>
+              <li>
+                <h5>Completed a comprehensive program covering network security, system security, threat modeling, and incident response. Gained hands-on experience with tools like Wireshark, SQL, Linux comman
+                </h5>
+              </li>
+              <br />
+            </div>
 
 
           </ul>

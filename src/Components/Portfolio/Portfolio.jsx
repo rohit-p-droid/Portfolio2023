@@ -6,6 +6,7 @@ import img3 from '../../Assets/constructionERP.jpeg'
 import img4 from '../../Assets/EmployeeManagement.png'
 import img5 from '../../Assets/portfolio5.png'
 import img6 from '../../Assets/portfolio6.jpg'
+import digitalWallte from '../../Assets/digital-wallet.png'
 
 const Portfolio = () => {
 
@@ -24,6 +25,14 @@ const Portfolio = () => {
             title: "Laptop Shopping Website",
             desc: "It is the online laptop shopping website build using React as a frontend and NodeJS, ExpressJS for backend and MongoDB for database",
             github: "https://github.com/rohit-p-droid/MERN-LaptopShopping-website.git",
+            demo: "#"
+        },
+        {
+            id: 3,
+            image: digitalWallte,
+            title: "Digital Wallet System",
+            desc: "Built a full-stack digital wallet application using Spring Boot for backend and React for frontend. Implemented user authentication, wallet balance management, and secure money transfer between users. Designed transaction history and activity tracking for each user to ensure transparency.",
+            github: "https://github.com/rohit-p-droid/digital-wallet.git", 
             demo: "#"
         },
         {
@@ -61,7 +70,7 @@ const Portfolio = () => {
                                 <p>{desc}</p><br/>
                                 <div className="portfolio_item-cta">
                                     <a href={github} className='btn' target='_blank'>Github</a>
-                                    <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a>
+                                    {/* <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a> */}
                                 </div>
                             </article>
                         )
